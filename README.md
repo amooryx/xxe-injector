@@ -1,8 +1,8 @@
-﻿# xxe-injector
+# xxe-injector
 
 > Red team security tool for authorized testing only.
 
-`ash
+```bash
 python xxe_injector.py --help
 ```
 
