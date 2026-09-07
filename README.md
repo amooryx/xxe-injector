@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./banner.svg" alt="xxe-injector" width="800">
+</div>
+
 # xxe-injector
 
 > Red team security tool for authorized testing only.
